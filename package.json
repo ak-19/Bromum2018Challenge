@@ -1,0 +1,12 @@
+{
+  "name": "Bromum2018Challenge",
+  "version": "1.0.0",
+  "description": "Codility Bromum 2018 Challenge",
+  "scripts": {
+    "test": "jest --watch",
+    "debug": "node $NODE_DEBUG_OPTION solution.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
